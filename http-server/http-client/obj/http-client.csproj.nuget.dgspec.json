@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/veronika/AspNetProjects/http-server/http-client/http-client.csproj": {}
+  },
+  "projects": {
+    "/home/veronika/AspNetProjects/http-server/http-client/http-client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/veronika/AspNetProjects/http-server/http-client/http-client.csproj",
+        "projectName": "http-client",
+        "projectPath": "/home/veronika/AspNetProjects/http-server/http-client/http-client.csproj",
+        "packagesPath": "/home/veronika/.nuget/packages/",
+        "outputPath": "/home/veronika/AspNetProjects/http-server/http-client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/veronika/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

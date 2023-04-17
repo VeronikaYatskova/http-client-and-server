@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pXKz4cpqLjWo5ohUEUt2yQMd1UikI223fQdGq1JNJ+UVQ/wtz1pjM82cbnlatmzvzumDUZgk1pG0w3Du2pa4Gw==",
+  "success": true,
+  "projectFilePath": "/home/veronika/AspNetProjects/http-server/http-client/http-client.csproj",
+  "expectedPackageFiles": [
+    "/home/veronika/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

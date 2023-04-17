@@ -1,0 +1,17 @@
+/home/veronika/AspNetProjects/http-server/http-client/bin/Debug/net6.0/http-client
+/home/veronika/AspNetProjects/http-server/http-client/bin/Debug/net6.0/http-client.deps.json
+/home/veronika/AspNetProjects/http-server/http-client/bin/Debug/net6.0/http-client.runtimeconfig.json
+/home/veronika/AspNetProjects/http-server/http-client/bin/Debug/net6.0/http-client.dll
+/home/veronika/AspNetProjects/http-server/http-client/bin/Debug/net6.0/ref/http-client.dll
+/home/veronika/AspNetProjects/http-server/http-client/bin/Debug/net6.0/http-client.pdb
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/http-client.csproj.AssemblyReference.cache
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/http-client.GeneratedMSBuildEditorConfig.editorconfig
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/http-client.AssemblyInfoInputs.cache
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/http-client.AssemblyInfo.cs
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/http-client.csproj.CoreCompileInputs.cache
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/http-client.dll
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/ref/http-client.dll
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/http-client.pdb
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/http-client.genruntimeconfig.cache
+/home/veronika/AspNetProjects/http-server/http-client/bin/Debug/net6.0/CommandLine.dll
+/home/veronika/AspNetProjects/http-server/http-client/obj/Debug/net6.0/http-client.csproj.CopyComplete

@@ -1,0 +1,120 @@
+2023-04-17 15:06:59.030 +03:00 [Information] Request #: 1
+2023-04-17 15:06:59.057 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 15:06:59.058 +03:00 [Information] Request Method: GET
+2023-04-17 15:06:59.058 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 15:10:15.895 +03:00 [Information] Request #: 1
+2023-04-17 15:10:15.939 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 15:10:15.940 +03:00 [Information] Request Method: GET
+2023-04-17 15:10:15.940 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 15:10:15.945 +03:00 [Information] Response #1
+2023-04-17 15:10:15.945 +03:00 [Information] Status Code: 404
+2023-04-17 15:10:22.530 +03:00 [Information] Request #: 2
+2023-04-17 15:10:22.530 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 15:10:22.530 +03:00 [Information] Request Method: POST
+2023-04-17 15:10:22.530 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 15:10:22.563 +03:00 [Information] Response #2
+2023-04-17 15:10:22.563 +03:00 [Information] Status Code: 201
+2023-04-17 15:10:24.316 +03:00 [Information] Request #: 3
+2023-04-17 15:10:24.316 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 15:10:24.316 +03:00 [Information] Request Method: GET
+2023-04-17 15:10:24.316 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 15:10:24.319 +03:00 [Information] Response #3
+2023-04-17 15:10:24.319 +03:00 [Information] Status Code: 200
+2023-04-17 16:05:21.426 +03:00 [Information] Request #: 1
+2023-04-17 16:05:21.451 +03:00 [Information] Request URL: http://localhost:8000/files
+2023-04-17 16:05:21.451 +03:00 [Information] Request Method: GET
+2023-04-17 16:05:21.451 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:05:21.456 +03:00 [Information] Response #1
+2023-04-17 16:05:21.456 +03:00 [Information] Status Code: 200
+2023-04-17 16:09:50.285 +03:00 [Information] Request #: 2
+2023-04-17 16:09:50.285 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:09:50.286 +03:00 [Information] Request Method: GET
+2023-04-17 16:09:50.286 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:09:50.288 +03:00 [Information] Response #2
+2023-04-17 16:09:50.288 +03:00 [Information] Status Code: 200
+2023-04-17 16:10:03.057 +03:00 [Information] Request #: 3
+2023-04-17 16:10:03.057 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:10:03.057 +03:00 [Information] Request Method: POST
+2023-04-17 16:10:03.057 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:10:03.083 +03:00 [Information] Response #3
+2023-04-17 16:10:03.083 +03:00 [Information] Status Code: 201
+2023-04-17 16:10:48.646 +03:00 [Information] Request #: 1
+2023-04-17 16:10:48.676 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:10:48.676 +03:00 [Information] Request Method: GET
+2023-04-17 16:10:48.676 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:10:48.682 +03:00 [Information] Response #1
+2023-04-17 16:10:48.683 +03:00 [Information] Status Code: 200
+2023-04-17 16:11:30.215 +03:00 [Information] Request #: 1
+2023-04-17 16:11:30.241 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:11:30.241 +03:00 [Information] Request Method: GET
+2023-04-17 16:11:30.241 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:11:30.246 +03:00 [Information] Response #1
+2023-04-17 16:11:30.246 +03:00 [Information] Status Code: 200
+2023-04-17 16:11:54.164 +03:00 [Information] Request #: 2
+2023-04-17 16:11:54.164 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:11:54.164 +03:00 [Information] Request Method: GET
+2023-04-17 16:11:54.164 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:11:54.165 +03:00 [Information] Response #2
+2023-04-17 16:11:54.165 +03:00 [Information] Status Code: 200
+2023-04-17 16:16:53.425 +03:00 [Information] Request #: 3
+2023-04-17 16:16:53.426 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:16:53.426 +03:00 [Information] Request Method: GET
+2023-04-17 16:16:53.426 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:16:53.427 +03:00 [Information] Response #3
+2023-04-17 16:16:53.427 +03:00 [Information] Status Code: 200
+2023-04-17 16:16:54.674 +03:00 [Information] Request #: 4
+2023-04-17 16:16:54.674 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:16:54.674 +03:00 [Information] Request Method: POST
+2023-04-17 16:16:54.675 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:16:54.700 +03:00 [Information] Response #4
+2023-04-17 16:16:54.700 +03:00 [Information] Status Code: 201
+2023-04-17 16:17:28.300 +03:00 [Information] Request #: 5
+2023-04-17 16:17:28.300 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:17:28.300 +03:00 [Information] Request Method: GET
+2023-04-17 16:17:28.300 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:17:28.300 +03:00 [Information] Response #5
+2023-04-17 16:17:28.300 +03:00 [Information] Status Code: 200
+2023-04-17 16:18:26.204 +03:00 [Information] Request #: 6
+2023-04-17 16:18:26.204 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:18:26.204 +03:00 [Information] Request Method: GET
+2023-04-17 16:18:26.205 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:18:26.205 +03:00 [Information] Response #6
+2023-04-17 16:18:26.206 +03:00 [Information] Status Code: 404
+2023-04-17 16:35:01.828 +03:00 [Information] Request #: 7
+2023-04-17 16:35:01.828 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:35:01.828 +03:00 [Information] Request Method: POST
+2023-04-17 16:35:01.828 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:35:01.829 +03:00 [Information] Response #7
+2023-04-17 16:35:01.829 +03:00 [Information] Status Code: 201
+2023-04-17 16:35:20.672 +03:00 [Information] Request #: 8
+2023-04-17 16:35:20.672 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:35:20.672 +03:00 [Information] Request Method: POST
+2023-04-17 16:35:20.672 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:35:20.672 +03:00 [Information] Response #8
+2023-04-17 16:35:20.672 +03:00 [Information] Status Code: 201
+2023-04-17 16:37:19.154 +03:00 [Information] Request #: 1
+2023-04-17 16:37:19.179 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:37:19.179 +03:00 [Information] Request Method: POST
+2023-04-17 16:37:19.179 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:37:19.199 +03:00 [Information] Response #1
+2023-04-17 16:37:19.199 +03:00 [Information] Status Code: 201
+2023-04-17 16:38:34.633 +03:00 [Information] Request #: 1
+2023-04-17 16:38:34.659 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:38:34.660 +03:00 [Information] Request Method: POST
+2023-04-17 16:38:34.660 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:42:14.449 +03:00 [Information] Request #: 1
+2023-04-17 16:42:14.474 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:42:14.474 +03:00 [Information] Request Method: POST
+2023-04-17 16:42:14.474 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:46:23.802 +03:00 [Information] Request #: 1
+2023-04-17 16:46:23.827 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:46:23.827 +03:00 [Information] Request Method: POST
+2023-04-17 16:46:23.827 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:46:23.846 +03:00 [Information] Response #1
+2023-04-17 16:46:23.846 +03:00 [Information] Status Code: 201
+2023-04-17 16:46:35.980 +03:00 [Information] Request #: 2
+2023-04-17 16:46:35.981 +03:00 [Information] Request URL: http://localhost:8000/
+2023-04-17 16:46:35.981 +03:00 [Information] Request Method: POST
+2023-04-17 16:46:35.981 +03:00 [Information] User Hostname: localhost:8000
+2023-04-17 16:46:35.981 +03:00 [Information] Response #2
+2023-04-17 16:46:35.982 +03:00 [Information] Status Code: 201
